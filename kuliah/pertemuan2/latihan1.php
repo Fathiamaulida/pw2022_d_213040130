@@ -44,7 +44,7 @@ echo "<br>"
  </script>
 
 ` back tick
-~ tilde
+~ tilde 
 # pound
 ^ caret 
 | pipe
